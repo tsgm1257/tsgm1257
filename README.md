@@ -38,9 +38,9 @@ My tech stack includes **React**, **Node.js**, **TypeScript**, and **MongoDB**.
   <a href="mailto:neaz1257@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" />
   </a>
-  <a href="www.linkedin.com/in/tanzeem-siddique/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
-  </a>
+  <a href="https://www.linkedin.com/in/tanzeem-siddique/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" />
+</a>
   <a href="https://github.com/tsgm1257">
     <img src="https://img.shields.io/badge/GitHub-Follow-informational?style=for-the-badge&logo=github&logoColor=white&color=181717" />
   </a>
