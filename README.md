@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Banner" />
+</p>
+
 
 <!--
 **tsgm1257/tsgm1257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
