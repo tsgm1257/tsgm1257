@@ -22,7 +22,7 @@ My tech stack includes **React**, **Node.js**, **TypeScript**, and **MongoDB**.
 <img src="https://skillicons.dev/icons?i=js,ts" height="32" />
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=,html,css,react,vite,redux,tailwind,firebase" height="32" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,redux,tailwind,firebase" height="32" />
 
 **Backend & Database**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" height="32" />
@@ -53,11 +53,11 @@ My tech stack includes **React**, **Node.js**, **TypeScript**, and **MongoDB**.
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=tsgm1257&show_icons=true&theme=default&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsgm1257&layout=compact&langs_count=8" />
-  <img height="150" src="https://streak-stats.demolab.com?user=tsgm1257&theme=default" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsgm1257&show_icons=true&theme=default&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsgm1257&layout=compact&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tsgm1257&theme=default)
 
 
 <!--
